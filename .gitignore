@@ -1,0 +1,13 @@
+data/
+artifacts/*.pt
+artifacts/metadata.json
+.ipynb_checkpoints/
+__pycache__/
+
+# file tải từ Kaggle, file nộp courses và tài liệu của giảng viên
+results/
+24520253.txt
+Lab 4.docx
+Lab4_Demo.ipynb
+assignments (1).ipynb
+encoderdecoder_example.py
